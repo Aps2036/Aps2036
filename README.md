@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aps2036
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ashish Pratap Singh
+- 👀 I’m interested in ...Technology
+- 🌱 I’m currently learning ...Java
+- 💞️ I’m looking to collaborate on ...Linkedin
+-  📫 How to reach me: Catch and follow me from the above links 👆, in addition to follow me here.
 
 <!---
 Aps2036/Aps2036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
