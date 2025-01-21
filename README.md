@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Ashish Pratap Singh
 - 👀 I’m interested in ...Technology
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m trained as a ...Java Developer
 - 💞️ I’m looking to collaborate on ...Linkedin
+- I have learned Java, Spring boot, Microservicess,Database(Relational),Mysql.
+- I have also learned Html,css and Javascript.
 -  📫 How to reach me: Catch and follow me from the above links 👆, in addition to follow me here.
 
 <!---
